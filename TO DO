@@ -1,4 +1,0 @@
-1. Sprawdzić co jest nie tak, że hash nie jest taki sam jak w hashlib
-2. Dopisać funkcje innych Keccak (np. 512, itp) - o ile jest to możliwe (trzeba przeanalizować czy nie trzeba zmienić parametru w w niektórych funkcjach żeby to zrobić)
-3. Napisać interaktywną konsolę, żeby można było wpisać string i wyrzuci nam hash w formacie hex
-4. Przeanalizować security: "and analyze its security."
